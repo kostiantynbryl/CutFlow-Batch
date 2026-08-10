@@ -19,7 +19,7 @@ CutFlow Batch — настольное приложение для Windows, ко
 
 ## Скриншот
 
-![Главное окно CutFlow Batch](docs/screenshots/main-window.png)
+![Главное окно CutFlow Batch](docs/screenshots/main-window.webp)
 
 ## Возможности
 
@@ -153,7 +153,7 @@ CutFlow-Batch/
 │   └── video_processor.py   # очередь и выполнение FFmpeg
 ├── docs/
 │   ├── screenshots/
-│   │   └── main-window.png
+│   │   └── main-window.webp
 │   ├── BUILDING.md
 │   ├── TROUBLESHOOTING.md
 │   └── USAGE.md
